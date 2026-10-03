@@ -5,4 +5,4 @@
 -->
 
 Buy me a cup of tea/coffee if you enjoy my contributions
-![apilay](images/alipay.jpg)
+<img src="images/aplipay.jpg" width="40%">
