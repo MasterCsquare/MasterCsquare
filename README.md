@@ -6,5 +6,5 @@
 
 Buy me a cup of tea/coffee if you enjoy my contributions
 
-<img src="images/alipay.jpg" width="40%">
-<img src="images/wechat.png" width="40%">
+<img src="images/alipay.jpg" width="200">
+<img src="images/wechat.png" width="200">
