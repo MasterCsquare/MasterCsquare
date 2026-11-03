@@ -6,4 +6,6 @@
 
 If you'd like to support my work, feel free to scan and give any amount you wish.
 
+Or sponsor me through the button on the profile.
+
 <img src="images/alipay.jpg" width="200"> <img src="images/wechat.png" width="200">
